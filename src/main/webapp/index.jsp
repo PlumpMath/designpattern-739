@@ -11,7 +11,7 @@
 </td>
 </tr>
 <tr>
-<td width="150" &nbsp; </td>
+<td width="150"> &nbsp; </td>
 <td width="550">
 <form method="get">
 <input type="text" name="username" size="25">
