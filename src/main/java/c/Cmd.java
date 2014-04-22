@@ -6,7 +6,7 @@ import javax.servlet.http.*;
 
 /**
  * behavioral design pattern in which an object is used to represent and encapsulate all the information needed to call a method 
- * at a later time. This information includes the method name, the object that owns the method and values for the method parameters
+ * at a later time. This information includes the method name #turnOff(), the object that owns the method "ReceiverLight" and values for the method parameters
  * 
  * Client - source invoker
  * Command object which contains execute method or handler method
